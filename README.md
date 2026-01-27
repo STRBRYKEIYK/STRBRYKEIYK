@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J6emU5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDBMunlU1wJ7J2k7t/giphy.gif" width="150" alt="Pixel Art Keith" />
+  <img src="https://github.com/STRBRYKEIYK/STRBRYKEIYK/blob/main/matcha-me.gif?raw=true" width="150" alt="Pixel Art Keith" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A8035&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Keith!;Frontend+Developer;UI%2FUX+Enthusiast;Matcha+%26+Code" alt="Typing SVG" />
