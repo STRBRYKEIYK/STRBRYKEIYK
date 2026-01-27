@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Pixel Art Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=KEITH%20FELIPE&fontSize=60&fontColor=2d3f1f&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20with%20Matcha%20🍵&descSize=18&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A8035&height=200&section=header&text=KEITH%20FELIPE&fontSize=60&fontColor=FFF8E7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20with%20Matcha%20🍵&descSize=18&descAlignY=55" width="100%" />
 
   <br/>
 
@@ -260,7 +260,7 @@ timeline
 <!-- Footer -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=Thanks%20for%20visiting!%20🍵&fontSize=30&fontColor=2d3f1f&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A8035&height=120&section=footer&text=Thanks%20for%20visiting!%20🍵&fontSize=30&fontColor=FFF8E7&animation=fadeIn" width="100%" />
   
   <br/>
   
