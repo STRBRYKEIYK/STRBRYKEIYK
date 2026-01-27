@@ -1,48 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0EA5E9,6366F1&height=220&section=header&text=Keith%20Felipe&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer&descAlignY=55&descAlign=50" alt="Header" />
-</div>
-
-<div align="center">
-  <h3>Building digital experiences at <a href="https://keithfbuilds.dev">keithfbuilds.dev</a></h3>
-  <p>
-    I am a <b>Frontend Developer</b> with a passion for building production-ready systems.<br>
-    Currently optimizing workflows at <b>JJC Engineering Works</b>.
-  </p>
   
-  <a href="https://keithfbuilds.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2J6emU5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aGk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDBMunlU1wJ7J2k7t/giphy.gif" width="150" alt="Pixel Art Keith" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A8035&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Keith!;Frontend+Developer;UI%2FUX+Enthusiast;Matcha+%26+Code" alt="Typing SVG" />
   </a>
-  <a href="mailto:Keithfelipe024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail" alt="Email" />
+
+  <p>
+    <a href="https://keithfbuilds.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Website-keithfbuilds.dev-B2C248?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="mailto:Keithfelipe024@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-A4B640?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <samp>
+    Creating aesthetic & functional web experiences from Antipolo, PH. <br/>
+    Building mostly with <b>React</b>, <b>Node</b>, and <b>Figma</b>.
+  </samp>
+</div>
+
+<br />
+
+<h3 align="center">🍵 Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mysql,figma,vscode,git&theme=light" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&hide_border=true&title_color=6A8035&icon_color=8CA846&text_color=5C7335&bg_color=F7FCE6" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&hide_border=true&title_color=6A8035&text_color=5C7335&bg_color=F7FCE6" />
   </a>
 </div>
 
-<br />
+<h3 align="center">🌱 My Journey</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,mysql,figma,python,git&theme=light" />
-</div>
-
-<br />
-
-<details>
-<summary><b>✨ Life Beyond Code (Click to Expand)</b></summary>
-<br />
-<ul>
-  <li><b>🏎️ Sim Racing:</b> Refining lap times and understanding vehicle dynamics.</li>
-  <li><b>📖 Theology:</b> Deep diving into Christian doctrine and biblical inspiration.</li>
-  <li><b>📸 Photography:</b> Shooting film on my Ricoh RZ-800.</li>
-  <li><b>⌨️ Hardware:</b> Building custom mechanical keyboards and PCs.</li>
-</ul>
-</details>
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/STRBRYKEIYK/STRBRYKEIYK/blob/output/github-contribution-grid-snake.svg" />
-</div>
+```mermaid
+timeline
+    title BSIT Graduate to Developer
+    2025 : JJC Engineering Works : Frontend Dev Intern
+    2026 : Built keithfbuilds.dev : Mastering Next.js & UI/UX
