@@ -1,273 +1,265 @@
 <div align="center">
-  
-  <!-- Pixel Art Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A8035&height=200&section=header&text=KEITHFBUILDS&fontSize=60&fontColor=FFF8E7&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20with%20Matcha%20🍵&descSize=18&descAlignY=55" width="100%" />
 
-  <br/>
-
-  <!-- Animated Pixel Keith Avatar -->
-  <a href="https://keithfbuilds.dev">
-    <img src="https://github.com/STRBRYKEIYK/STRBRYKEIYK/blob/main/matcha-me.png?raw=true" width="200" style="border-radius: 20px; border: 4px solid #6A8035; box-shadow: 0 8px 16px rgba(106, 128, 53, 0.3);" alt="Pixel Keith" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=22&pause=1000&color=4A5D2E&center=true&vCenter=true&width=700&height=60&lines=HI+I'M+KEITH+FELIPE+👋;FULL-STACK+DEVELOPER+💻;BUILDING+PRODUCTION+SYSTEMS+⚙️;POWERED+BY+MATCHA+🍵" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Social Badges with Pixel Style -->
-  <p>
-    <a href="https://keithfbuilds.dev" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_PORTFOLIO-keithfbuilds.dev-6A8035?style=for-the-badge&labelColor=2d3f1f&color=8CA846" alt="Portfolio" />
-    </a>
-    <a href="mailto:Keithfelipe024@gmail.com">
-      <img src="https://img.shields.io/badge/📧_EMAIL-Contact_Me-6A8035?style=for-the-badge&labelColor=2d3f1f&color=A4B640" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/keith-wilhelm-felipe-a15610366">
-      <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-6A8035?style=for-the-badge&labelColor=2d3f1f&color=B2C248" alt="LinkedIn" />
-    </a>
-  </p>
-
-  <br/>
-
-  <!-- Pixel Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header&fontColor=00FF41&animation=fadeIn" width="100%" />
 
 </div>
-
-<br />
-
-<!-- About Section with Pixel Terminal Style -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+SYSTEM_LOG%3A+ABOUT_ME+▓▓▓" alt="About Header" />
-  
-  <br/><br/>
-
-  <table width="90%">
-    <tr>
-      <td width="50%" valign="top">
-        
-```
-╔════════════════════════════════════╗
-║  👨‍💻 DEVELOPER PROFILE            ║
-╚════════════════════════════════════╝
-
-▸ STATUS: Full-Time Developer
-▸ COMPANY: JJC Engineering Works
-▸ LOCATION: Antipolo, PH 🇵🇭
-▸ TIMEZONE: GMT+8
-
-╔════════════════════════════════════╗
-║  📊 CAREER PROGRESSION            ║
-╚════════════════════════════════════╝
-
-2025.01 → Intern
-2025.04 → Part-Time Developer (3mo)
-2025.10 → Full-Time Developer (6mo+)
-```
-
-  </td>
-      <td width="50%" valign="top">
 
 ```
-╔════════════════════════════════════╗
-║  🎯 MISSION STATEMENT             ║
-╚════════════════════════════════════╝
-
-Building production-grade enterprise
-systems. Specializing in modernizing
-legacy desktop applications into
-scalable web platforms.
-
-╔════════════════════════════════════╗
-║  ⭐ KEY ACHIEVEMENT               ║
-╚════════════════════════════════════╝
-
-Developed JJC Toolbox - Enterprise
-Inventory Platform serving 60+ users
-with real-time POS & asset tracking.
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     ██╗  ██╗███████╗██╗████████╗██╗  ██╗    ███████╗                        ║
+║     ██║ ██╔╝██╔════╝██║╚══██╔══╝██║  ██║    ██╔════╝                        ║
+║     █████╔╝ █████╗  ██║   ██║   ███████║    █████╗                          ║
+║     ██╔═██╗ ██╔══╝  ██║   ██║   ██╔══██║    ██╔══╝                          ║
+║     ██║  ██╗███████╗██║   ██║   ██║  ██║    ██║                             ║
+║     ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  @STRBRYKEIYK              ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-  </td>
-    </tr>
-  </table>
-
-</div>
-
-<br />
-
-<!-- Projects Section -->
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+SELECTED_PROJECTS+▓▓▓" alt="Projects Header" />
-  
-  <br/><br/>
 
-  <table width="95%">
-    <tr>
-      <td width="25%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/📦-JJC_TOOLBOX-6A8035?style=for-the-badge&labelColor=2d3f1f" /><br/><br/>
-        <samp><b>Inventory & POS Platform</b></samp><br/>
-        <samp>Serving 60+ employees with real-time asset monitoring & transaction processing</samp><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=light" height="28"/><br/>
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION-8CA846?style=flat-square" />
-      </td>
-      <td width="25%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/🚚-PROCUREMENT-6A8035?style=for-the-badge&labelColor=2d3f1f" /><br/><br/>
-        <samp><b>Supply Chain Hub</b></samp><br/>
-        <samp>Centralized platform for Purchase Orders & Supplier management workflows</samp><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,express,js&theme=light" height="28"/><br/>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE-8CA846?style=flat-square" />
-      </td>
-      <td width="25%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/👥-HR_DASHBOARD-6A8035?style=for-the-badge&labelColor=2d3f1f" /><br/><br/>
-        <samp><b>Human Resources Portal</b></samp><br/>
-        <samp>Redesigned employee data management with modern UI/UX principles</samp><br/><br/>
-        <img src="https://skillicons.dev/icons?i=figma,tailwind,css&theme=light" height="28"/><br/>
-        <img src="https://img.shields.io/badge/STATUS-DEPLOYED-8CA846?style=flat-square" />
-      </td>
-      <td width="25%" align="center" valign="top">
-        <img src="https://img.shields.io/badge/💰-FINANCE_HUB-6A8035?style=for-the-badge&labelColor=2d3f1f" /><br/><br/>
-        <samp><b>Accounting Web App</b></samp><br/>
-        <samp>Next-gen financial management system with automated reporting</samp><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=light" height="28"/><br/>
-        <img src="https://img.shields.io/badge/STATUS-IN_DEV-A4B640?style=flat-square" />
-      </td>
-    </tr>
-  </table>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4A9E5C&center=true&vCenter=true&width=700&height=50&lines=keith%40portfolio%3A~%24+whoami+%E2%96%8C;Full-Stack+Developer+%7C+Enterprise+Systems+%E2%96%8C;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+WebSocket+%E2%96%8C;Building+production-grade+web+platforms+%E2%96%8C" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://keithfbuilds.dev"><img src="https://img.shields.io/badge/portfolio-keithfbuilds.dev-0D1117?style=flat-square&logo=vercel&logoColor=4A9E5C&labelColor=161B22&color=21262D" /></a>
+<a href="mailto:Keithfelipe024@gmail.com"><img src="https://img.shields.io/badge/email-keithfelipe024@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=4A9E5C&labelColor=161B22&color=21262D" /></a>
+<a href="https://www.linkedin.com/in/keith-wilhelm-felipe-a15610366"><img src="https://img.shields.io/badge/linkedin-connect-0D1117?style=flat-square&logo=linkedin&logoColor=4A9E5C&labelColor=161B22&color=21262D" /></a>
+<img src="https://komarev.com/ghpvc/?username=STRBRYKEIYK&label=views&color=21262D&style=flat-square" />
 
 </div>
 
-<br />
+---
 
-<!-- Tech Stack Section -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+TECH_STACK+▓▓▓" alt="Stack Header" />
-  
-  <br/><br/>
-
-  <table width="90%">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/FRONTEND_&_DESIGN-2d3f1f?style=for-the-badge" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&theme=light" height="40"/><br/><br/>
-        <img src="https://img.shields.io/badge/React-Expert-8CA846?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-Advanced-8CA846?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-Proficient-8CA846?style=flat-square&logo=typescript&logoColor=white" />
-      </td>
-    </tr>
-    <tr><td height="20"></td></tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/BACKEND_&_DATABASE-2d3f1f?style=for-the-badge" /><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,sqlite,supabase&theme=light" height="40"/><br/><br/>
-        <img src="https://img.shields.io/badge/Node.js-Expert-8CA846?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-Advanced-8CA846?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-Proficient-8CA846?style=flat-square&logo=supabase&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br />
-
-<!-- Journey Timeline -->
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+DEV_JOURNEY_LOG+▓▓▓" alt="Journey Header" />
-  
-  <br/><br/>
-
-</div>
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#e8f5e1','primaryTextColor':'#2d3f1f','primaryBorderColor':'#6A8035','lineColor':'#8CA846','secondaryColor':'#d4e7c5','tertiaryColor':'#f0f7eb'}}}%%
-timeline
-    title 🌱 Developer Journey: 2019 - 2026
-    section 🌿 Early Days
-        2019 : HTML Fundamentals
-             : Web Development Basics
-             : Grades 11-12
-        2021 : ICCT Colleges
-             : Systems & Hardware
-             : IT Foundation
-    section 🍃 Skill Building
-        2022 : Software Development
-             : Programming Fundamentals
-        2023 : Cisco Networking
-             : Infrastructure & Protocols
-        2024 : Python Development
-             : Backend Specialization
-    section 🍵 Professional Era
-        2025 : Advanced Web (Next.js)
-             : JJC Engineering Intern
-             : Promoted to Part-Time
-             : Production Systems
-        2026 : Full-Time Developer
-             : Enterprise Architecture
-             : Finance Hub Development
+```zsh
+keith@portfolio:~$ cat ./about.md
 ```
 
-<br />
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  KEITH WILHELM U. FELIPE                        Antipolo, Rizal · GMT+8     │
+│  Full-Stack Web Developer                                                   │
+│  JJC Engineering Works                                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  BSIT graduate (Web & Application Development, 2025) specializing in        │
+│  React/TypeScript enterprise systems. Builds real-time inventory,           │
+│  procurement, and financial platforms from the ground up — independently,   │
+│  in production, serving live users.                                         │
+│                                                                             │
+│  Currently seeking remote opportunities to deliver scalable, high-          │
+│  impact web solutions.                                                      │
+│                                                                             │
+│  ✦ Available immediately  ✦ Remote / Work-from-Home  ✦ English (Pro)        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-<!-- Stats Section -->
+---
+
+```zsh
+keith@portfolio:~$ ls ./projects/
+```
+
+<br/>
+
+<details open>
+<summary><b>&nbsp;📦 &nbsp;TOOLBOX — Point of Sale &amp; Inventory Management System &nbsp;·&nbsp; 2025–2026</b></summary>
+
+<br/>
+
+```
+  Role   │ Full-Stack Developer
+  Stack  │ React 18 · TypeScript · Tailwind CSS · WebSocket/Socket.IO · PWA · REST APIs
+  Status │ ██████████ PRODUCTION
+```
+
+```
+keith@portfolio:~/projects/toolbox$ git log --oneline --pretty="%s"
+
+  feat: barcode scanning with real-time inventory validation
+  feat: PWA offline-first mode with auto-sync via Socket.IO
+  feat: multi-step checkout workflow & cart persistence
+  feat: IndexedDB caching for 1,000+ SKU catalog
+  feat: abandoned cart detection & session recovery
+  feat: CSV / XLSX / JSON export for reporting & analytics
+  feat: role-based auth, Zod validation, XSS/CORS/rate-limit hardening
+  feat: comprehensive employee audit trail & transaction logs
+  feat: real-time multi-session stock sync across concurrent users
+```
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>&nbsp;🚚 &nbsp;PROCUREMENT DEPT. — Inventory &amp; Supply Chain Module &nbsp;·&nbsp; 2025–2026</b></summary>
+
+<br/>
+
+```
+  Role   │ Full-Stack Developer
+  Stack  │ React · TypeScript · WebSocket · QR/Barcode Libraries · Axios · Context API
+  Status │ ██████████ ACTIVE
+```
+
+```
+keith@portfolio:~/projects/procurement$ git log --oneline --pretty="%s"
+
+  feat: real-time inventory dashboard — KPI widgets & stock alert system
+  feat: barcode/QR code generation & scanning for inventory tracking
+  feat: multi-step purchase order wizard with image attachments
+  feat: duplicate detection algorithm — prevents redundant inventory entries
+  feat: CSV/Excel bulk import with validation, templates & error reports
+  feat: supplier database with performance tracking & comms history
+  feat: WebSocket notifications for live order status updates
+  feat: full employee activity audit trail system
+```
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>&nbsp;💰 &nbsp;FINANCE PAYROLL DEPT. — Enterprise Financial Management System &nbsp;·&nbsp; 2026</b></summary>
+
+<br/>
+
+```
+  Role   │ Full-Stack Developer
+  Stack  │ React · TypeScript · Advanced Workflows · Data Analytics · PDF/Excel Generation
+  Status │ ██████████ DEPLOYED
+```
+
+```
+keith@portfolio:~/projects/fpd$ git log --oneline --pretty="%s"
+
+  feat: three voucher types (Cash, Check, Petty Cash) + full workflow mgmt
+  feat: state machine approval chain — Draft → Submitted → Approved → Released
+  feat: dynamic dashboards — pie/bar/area charts, KPI metrics, trend analysis
+  feat: sales invoicing — line items, PDF generation, customer DB integration
+  feat: expense tracking — account classification & budget target monitoring
+  feat: payroll system — multi-period support, bulk processing, employee master
+  feat: employee vales (loans) — four types, color-coded status, disbursement
+  feat: monthly bills — vendor DB & recurring billing cycle management
+  feat: multi-sheet Excel exports with professional styling & date range filter
+```
+
+</details>
+
+---
+
+```zsh
+keith@portfolio:~$ cat ./stack.json
+```
+
+```json
+{
+  "frontend": {
+    "core"       : ["React 18", "Next.js", "TypeScript"],
+    "styling"    : ["Tailwind CSS", "Radix UI"],
+    "state"      : ["Context API", "Custom Hooks"],
+    "validation" : ["Zod"],
+    "http"       : ["Axios", "REST APIs"]
+  },
+  "backend": {
+    "runtime"    : ["Node.js", "Express"],
+    "languages"  : ["Python", "PHP"],
+    "database"   : ["MySQL", "SQLite", "Supabase"]
+  },
+  "realtime"  : ["WebSocket", "Socket.IO"],
+  "storage"   : ["IndexedDB", "LocalStorage"],
+  "pwa"       : ["Offline-First", "Service Workers", "Auto-Sync"],
+  "devtools"  : ["Git", "GitHub"],
+  "exports"   : ["CSV", "XLSX", "PDF Generation"],
+  "design"    : ["Figma"]
+}
+```
+
+---
+
+```zsh
+keith@portfolio:~$ cat ./achievements.log
+```
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  [2025–2026]  Enterprise-Scale System Architecture                       │
+│               Designed & delivered 3 production systems independently    │
+│               — real-time WebSocket sync, offline-first PWA,             │
+│               audit-compliant financial workflows — as a fresh BSIT      │
+│               graduate.                                                  │
+├──────────────────────────────────────────────────────────────────────────┤
+│  [2025–2026]  1,000+ SKU Inventory Engine                                │
+│               Built POS with IndexedDB caching, lazy loading, and live   │
+│               stock validation supporting large-scale retail ops         │
+│               without backend lag.                                       │
+├──────────────────────────────────────────────────────────────────────────┤
+│  [2026]       Multi-Level Financial Approval Workflows                   │
+│               Engineered state-machine-driven voucher/payroll system     │
+│               with full audit trail, bulk ops, and multi-sheet exports.  │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```zsh
+keith@portfolio:~$ cat ./education.txt
+```
+
+```
+  BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY
+  Major in Web & Application Development
+  ICCT Colleges — Graduated 2025
+
+  Milestones
+  ──────────
+  2019  →  HTML fundamentals, Web Development basics
+  2021  →  IT foundation, Systems & Hardware
+  2022  →  Software Development & Programming
+  2023  →  Cisco Networking, Infrastructure & Protocols
+  2024  →  Python, Backend Specialization
+  2025  →  Next.js, Advanced Web Dev → JJC Engineering Intern
+  2025  →  Promoted: Part-Time Developer (3 months)
+  2026  →  Promoted: Full-Time Developer (current)
+```
+
+---
+
+```zsh
+keith@portfolio:~$ gh stats --user STRBRYKEIYK
+```
+
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+GITHUB_STATS+▓▓▓" alt="Stats Header" />
-  
-  <br/><br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&theme=gruvbox&hide_border=true&title_color=4A5D2E&icon_color=6A8035&text_color=2d3f1f&bg_color=f0f7eb&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&theme=gruvbox&hide_border=true&title_color=4A5D2E&text_color=2d3f1f&bg_color=f0f7eb&border_radius=10" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&hide_border=true&title_color=4A9E5C&icon_color=4A9E5C&text_color=8B949E&bg_color=0D1117&border_radius=6&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&hide_border=true&title_color=4A9E5C&text_color=8B949E&bg_color=0D1117&border_radius=6" />
 
-  <br/><br/>
+<br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=STRBRYKEIYK&theme=gruvbox&hide_border=true&background=f0f7eb&ring=6A8035&fire=8CA846&currStreakLabel=4A5D2E&sideLabels=2d3f1f&currStreakNum=2d3f1f&sideNums=2d3f1f&dates=5C7335&border_radius=10" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=STRBRYKEIYK&hide_border=true&background=0D1117&ring=4A9E5C&fire=3D8B50&currStreakLabel=4A9E5C&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&border_radius=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=STRBRYKEIYK&bg_color=0D1117&color=4A9E5C&line=3D8B50&point=4A9E5C&area=true&area_color=1A2E1A&hide_border=true&custom_title=Contribution+Activity&title_color=4A9E5C&radius=6" width="95%" />
 
 </div>
 
-<br />
+---
 
-<!-- Activity Graph -->
+```zsh
+keith@portfolio:~$ exit
+
+  Session closed.
+  "Write code like no one else has to maintain it — then write docs like everyone does."
+                                                        — Keith Felipe_
+```
+
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=3000&color=4A5D2E&center=true&vCenter=true&width=600&lines=▓▓▓+CONTRIBUTION_GRAPH+▓▓▓" alt="Activity Header" />
-  
-  <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRBRYKEIYK&bg_color=f0f7eb&color=2d3f1f&line=6A8035&point=8CA846&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=d4e7c5&title_color=4A5D2E&radius=10" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 
-</div>
-
-<br />
-
-<!-- Quote Section -->
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20brewing%20matcha%20-%20patience%2C%20precision%2C%20and%20passion%20create%20perfection&author=Keith%20Felipe&border=true&bg_color=2d3f1f&border_color=6A8035&text_color=e8f5e1" width="80%" />
-
-</div>
-
-<br />
-
-<!-- Footer -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A8035&height=120&section=footer&text=Thanks%20for%20visiting!%20🍵&fontSize=30&fontColor=FFF8E7&animation=fadeIn" width="100%" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=STRBRYKEIYK&label=Profile%20Views&color=6A8035&style=for-the-badge" alt="Profile Views" />
-  
-  <br/><br/>
-  
-  <samp>Made with 💚 and ☕ by Keith Felipe</samp>
-  
 </div>
