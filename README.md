@@ -1,286 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:2d5a3d&height=220&section=header&text=KEITH%20FELIPE&fontSize=65&fontColor=4ade80&animation=fadeIn&fontAlignY=38&desc=keith@portfolio:~$%20whoami%20▌&descSize=22&descAlignY=60&descColor=86efac" width="100%" />
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&height=55&lines=%24+Full-Stack+Developer+%7C+Enterprise+Systems+%E2%96%8C;%24+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+WebSocket+%E2%96%8C;%24+Building+real-time+web+platforms%E2%96%8C;%24+Antipolo%2C+PH+%E2%80%94+Available+Immediately+%E2%96%8C" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://keithfbuilds.dev">
-  <img src="https://img.shields.io/badge/🌐%20keithfbuilds.dev-%234ade80?style=for-the-badge&labelColor=0d1117&color=1a3a2a&logoColor=4ade80" />
-</a>
-<a href="mailto:Keithfelipe024@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-%234ade80?style=for-the-badge&labelColor=0d1117&color=1a3a2a" />
-</a>
-<a href="https://www.linkedin.com/in/keith-wilhelm-felipe-a15610366">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-%234ade80?style=for-the-badge&labelColor=0d1117&color=1a3a2a" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=STRBRYKEIYK&label=profile+views&color=4ade80&style=flat-square&labelColor=0d1117" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460&height=220&section=header&text=Keith%20Wilhelm%20Felipe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=62&descColor=a8b4c8" width="100%"/>
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=9999&color=4ADE80&width=400&height=30&lines=%24+cat+~%2F.profile+%E2%96%8C" />
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                 │
-│   KEITH WILHELM U. FELIPE                  📍 Antipolo, Rizal, PH · GMT+8      │
-│   Full-Stack Web Developer                 📞 +63 921 605 4768                 │
-│   @ JJC Engineering Works                  ✉  Keithfelipe024@gmail.com         │
-│                                                                                 │
-│   BSIT — Web & Application Development (Graduated 2025). Independently         │
-│   designed and shipped 3 enterprise-grade production systems covering           │
-│   real-time POS, supply chain, and financial management. Specializing in        │
-│   modernizing legacy desktop workflows into scalable, offline-capable           │
-│   web platforms serving 60+ daily users.                                        │
-│                                                                                 │
-│   ✦  Remote / Work-from-Home   ✦  Available Immediately                        │
-│   ✦  English (Professional)    ✦  Filipino / Tagalog (Native)                  │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=9999&color=4ADE80&width=400&height=30&lines=%24+ls+~%2Fprojects%2F+%E2%96%8C" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-keithfbuilds.dev-0f3460?style=for-the-badge&logoColor=white&logo=vercel)](https://keithfbuilds.dev)&nbsp;
+[![Email](https://img.shields.io/badge/Email-keithfelipe024@gmail.com-0f3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Keithfelipe024@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f3460?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-wilhelm-felipe-a15610366)
 
 <br/>
 
-<div align="center">
-<table width="96%">
-<tr>
-<td width="50%" valign="top">
+![Location](https://img.shields.io/badge/📍_Antipolo,_Rizal-Philippines-1a1a2e?style=flat-square&labelColor=1a1a2e&color=0f3460)&nbsp;
+![Status](https://img.shields.io/badge/💼_Status-Available_Immediately-16a085?style=flat-square&labelColor=1a1a2e&color=16a085)&nbsp;
+![Work](https://img.shields.io/badge/🌐_Work_Setup-Remote_Ready-1a1a2e?style=flat-square&labelColor=1a1a2e&color=0f3460)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=STRBRYKEIYK&style=flat-square&label=Profile+Views&color=0f3460)
 
-<div align="center">
-
-### 📦 `TOOLBOX` — POS & Inventory
-![](https://img.shields.io/badge/STATUS-PRODUCTION-4ade80?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/2025--2026-1a3a2a?style=flat-square&labelColor=0d1117)
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mysql&theme=dark" height="32"/>
-
-</div>
-
-```
-$ git log --oneline
-
-+ barcode scanning & real-time inventory validation
-+ PWA offline-first + Socket.IO auto-sync
-+ multi-step checkout & cart session persistence
-+ IndexedDB caching for 1,000+ SKU catalog
-+ abandoned cart detection & history recovery
-+ CSV / XLSX / JSON export & analytics
-+ RBAC auth · Zod validation · XSS hardening
-+ employee audit trail & transaction logging
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚚 `PROCUREMENT` — Supply Chain Hub
-![](https://img.shields.io/badge/STATUS-ACTIVE-4ade80?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/2025--2026-1a3a2a?style=flat-square&labelColor=0d1117)
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs&theme=dark" height="32"/>
-
-</div>
-
-```
-$ git log --oneline
-
-+ real-time KPI dashboard & stock alert engine
-+ barcode/QR generation & scanning system
-+ multi-step PO wizard + image attachments
-+ duplicate detection algorithm
-+ CSV/Excel bulk import with error reporting
-+ supplier database & performance tracking
-+ WebSocket live order status notifications
-+ comprehensive employee activity audit trail
-```
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="12"></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💰 `FINANCE PAYROLL` — Financial Platform
-![](https://img.shields.io/badge/STATUS-DEPLOYED-4ade80?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/2026-1a3a2a?style=flat-square&labelColor=0d1117)
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,supabase&theme=dark" height="32"/>
-
-</div>
-
-```
-$ git log --oneline
-
-+ vouchers: Cash · Check · Petty Cash workflows
-+ state machine: Draft→Submitted→Approved→Released
-+ dashboards: pie/bar/area charts + KPI metrics
-+ sales invoicing with PDF generation
-+ payroll — multi-period, bulk processing
-+ employee vales (loans) — 4 types + tracking
-+ monthly bills & vendor database
-+ multi-sheet Excel exports + date range filter
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### ⚙️ `KEY ACHIEVEMENTS`
-![](https://img.shields.io/badge/FRESH_GRAD-ENTERPRISE_GRADE-4ade80?style=flat-square&labelColor=0d1117)
-
-</div>
-
-```
-$ cat ./achievements.log
-
-[✦] 3 production systems shipped independently
-    as a fresh BSIT graduate
-
-[✦] 60+ daily users served across all platforms
-
-[✦] 1,000+ SKU engine — IndexedDB caching,
-    lazy loading, live stock validation
-
-[✦] Real-time multi-session WebSocket sync
-    with offline-first PWA capability
-
-[✦] Full audit-compliant financial workflows
-    with multi-level approval state machines
-```
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=9999&color=4ADE80&width=400&height=30&lines=%24+cat+~%2Fstack.json+%E2%96%8C" />
+## 👋 About Me
 
-<br/>
+> BSIT graduate specializing in **React** and **TypeScript** enterprise systems. I build real-time inventory, procurement, and financial management platforms — independently, shipped to production, serving live users.
 
-<div align="center">
+I joined **JJC Engineering Works** as an intern in early 2025, was promoted to part-time developer within months, and have since delivered **three enterprise-grade web systems** from scratch while transitioning to full-time. I'm now looking for remote opportunities where I can keep building things that matter.
 
-<table width="96%">
-<tr>
-<td align="center" width="50%">
+- 🎓 **B.S. Information Technology** — Web & Application Development, ICCT Colleges *(2025)*
+- 🏢 **Full-Stack Developer** @ JJC Engineering Works *(Jan 2025 – Present)*
+- 💬 **Languages:** Filipino / Tagalog (native), English (professional)
 
-**`// FRONTEND & DESIGN`**
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&theme=dark" height="42"/>
+## 🚀 Projects
 
-<br/><br/>
-
-![React](https://img.shields.io/badge/React-Expert-4ade80?style=flat-square&logo=react&logoColor=4ade80&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-4ade80?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-4ade80?style=flat-square&logo=typescript&logoColor=4ade80&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Expert-4ade80?style=flat-square&logo=tailwindcss&logoColor=4ade80&labelColor=0d1117)
-![Radix UI](https://img.shields.io/badge/Radix_UI-Proficient-4ade80?style=flat-square&labelColor=0d1117)
-![Zod](https://img.shields.io/badge/Zod-Validation-4ade80?style=flat-square&labelColor=0d1117)
-
-</td>
-<td align="center" width="50%">
-
-**`// BACKEND & DATABASE`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,sqlite,supabase&theme=dark" height="42"/>
-
-<br/><br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-Expert-4ade80?style=flat-square&logo=node.js&logoColor=4ade80&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4ade80?style=flat-square&logo=mysql&logoColor=4ade80&labelColor=0d1117)
-![Supabase](https://img.shields.io/badge/Supabase-Proficient-4ade80?style=flat-square&logo=supabase&logoColor=4ade80&labelColor=0d1117)
-![WebSocket](https://img.shields.io/badge/WebSocket/Socket.IO-Expert-4ade80?style=flat-square&labelColor=0d1117)
-![REST APIs](https://img.shields.io/badge/REST_APIs-Advanced-4ade80?style=flat-square&labelColor=0d1117)
-![PWA](https://img.shields.io/badge/PWA_Offline--First-Proficient-4ade80?style=flat-square&labelColor=0d1117)
-
-</td>
-</tr>
-<tr><td colspan="2" height="12"></td></tr>
-<tr>
-<td colspan="2" align="center">
-
-**`// SPECIALIZATIONS`**
-
-![Full-Stack Dev](https://img.shields.io/badge/Full--Stack_Dev-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![Real-time Sync](https://img.shields.io/badge/Real--time_Sync-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![Enterprise Systems](https://img.shields.io/badge/Enterprise_Systems-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![Offline-First PWA](https://img.shields.io/badge/Offline--First_PWA-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![Financial Systems](https://img.shields.io/badge/Financial_Systems-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![CSV / Excel Export](https://img.shields.io/badge/CSV_%2F_Excel_Export-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-![PDF Generation](https://img.shields.io/badge/PDF_Generation-1a3a2a?style=for-the-badge&labelColor=0d1117&color=1a3a2a)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📦 Toolbox — Point of Sale & Inventory</h3>
+      <img src="https://img.shields.io/badge/Status-Production-16a085?style=flat-square"/> <img src="https://img.shields.io/badge/Year-2025--2026-0f3460?style=flat-square"/>
+      <br/><br/>
+      Enterprise POS system handling <strong>1,000+ SKUs</strong> across 60+ employees with real-time multi-session stock synchronization.
+      <br/><br/>
+      <b>Key Features</b>
+      <ul>
+        <li>Barcode scanning with real-time inventory validation</li>
+        <li>Offline-first PWA with automatic Socket.IO sync</li>
+        <li>Advanced cart management — persistence, history recovery, abandoned cart detection</li>
+        <li>IndexedDB caching for large-scale catalog performance</li>
+        <li>Role-based auth, Zod validation, XSS/CORS/rate-limit hardening</li>
+        <li>Full employee audit trail & transaction logging</li>
+        <li>CSV / XLSX / JSON export for analytics</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🚚 Procurement Dept. — Supply Chain Hub</h3>
+      <img src="https://img.shields.io/badge/Status-Active-16a085?style=flat-square"/> <img src="https://img.shields.io/badge/Year-2025--2026-0f3460?style=flat-square"/>
+      <br/><br/>
+      Centralized procurement platform managing supplier relationships, purchase orders, and inventory lifecycle workflows.
+      <br/><br/>
+      <b>Key Features</b>
+      <ul>
+        <li>Real-time inventory dashboard with KPI widgets & stock alerts</li>
+        <li>Barcode / QR code generation and scanning system</li>
+        <li>Multi-step purchase order wizard with image attachments</li>
+        <li>Duplicate detection algorithm to prevent redundant entries</li>
+        <li>CSV / Excel bulk import with validation, templates & error reports</li>
+        <li>Supplier database with performance tracking & communication history</li>
+        <li>Comprehensive employee activity audit trail</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💰 Finance Payroll Dept. — Financial System</h3>
+      <img src="https://img.shields.io/badge/Status-Deployed-16a085?style=flat-square"/> <img src="https://img.shields.io/badge/Year-2026-0f3460?style=flat-square"/>
+      <br/><br/>
+      Enterprise-grade financial platform handling vouchers, invoicing, payroll, loans, and expense tracking with multi-level approval workflows.
+      <br/><br/>
+      <b>Key Features</b>
+      <ul>
+        <li>State machine approvals — Draft → Submitted → Approved → Released</li>
+        <li>Three voucher types: Cash, Check, Petty Cash</li>
+        <li>Sales invoicing with PDF generation & customer database</li>
+        <li>Payroll — multi-period support, bulk processing, employee master</li>
+        <li>Employee loans system with 4 types & color-coded status tracking</li>
+        <li>Dynamic dashboards — pie / bar / area charts, KPI metrics</li>
+        <li>Multi-sheet Excel exports with professional styling</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PDF_Gen-EC1C24?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🖥️ HR Dashboard — Human Resources Portal</h3>
+      <img src="https://img.shields.io/badge/Status-Deployed-16a085?style=flat-square"/> <img src="https://img.shields.io/badge/Year-2025-0f3460?style=flat-square"/>
+      <br/><br/>
+      Redesigned employee data management system with a modern UI/UX overhaul, moving away from legacy desktop tooling.
+      <br/><br/>
+      <b>Key Features</b>
+      <ul>
+        <li>Modern employee profile & records management</li>
+        <li>Responsive design for desktop and mobile use</li>
+        <li>Clean component architecture with reusable UI patterns</li>
+        <li>Figma-to-code implementation with pixel-accurate precision</li>
+      </ul>
+      <br/><br/><br/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
 </table>
 
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend & Design
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,figma&perline=7" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,sqlite,supabase&perline=7" />
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
+
 </div>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=9999&color=4ADE80&width=400&height=30&lines=%24+git+log+--timeline+%E2%96%8C" />
-
-<br/>
-
-```
- 2019 ──── HTML Fundamentals · Web Dev Basics (Grades 11–12)
-   │
- 2021 ──── ICCT Colleges · IT Foundation · Systems & Hardware
-   │
- 2022 ──── Software Development · Programming Fundamentals
-   │
- 2023 ──── Cisco Networking · Infrastructure & Protocols
-   │
- 2024 ──── Python · Backend Specialization
-   │
- 2025 ──── Advanced Web (Next.js) ──► JJC Engineering · INTERN
-   │                                       │
-   │                                       └──► PROMOTED: Part-Time Developer (3 months)
-   │
- 2026 ──── PROMOTED: Full-Time Developer ──► Enterprise Architecture · Finance Hub ▌
-```
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=9999&color=4ADE80&width=400&height=30&lines=%24+gh+stats+--user+STRBRYKEIYK+%E2%96%8C" />
 
 <br/>
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&hide_border=true&title_color=4ade80&icon_color=4ade80&text_color=86efac&bg_color=0d1117&border_radius=8&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&hide_border=true&title_color=4ade80&text_color=86efac&bg_color=0d1117&border_radius=8" />
+| Category | Technologies |
+|---|---|
+| **Core Frontend** | React 18, Next.js, TypeScript, Tailwind CSS, Radix UI |
+| **State & Logic** | Context API, Custom Hooks, Zod, Axios |
+| **Real-time** | WebSocket, Socket.IO |
+| **Storage & Offline** | IndexedDB, LocalStorage, PWA / Service Workers |
+| **Backend** | Node.js, Express, Python, PHP |
+| **Databases** | MySQL, SQLite, Supabase |
+| **Exports** | CSV, XLSX (Excel), PDF Generation |
+| **DevOps** | Git, GitHub |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=STRBRYKEIYK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STRBRYKEIYK&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=STRBRYKEIYK&hide_border=true&background=0D1117&ring=4ade80&fire=22c55e&currStreakLabel=4ade80&sideLabels=86efac&currStreakNum=ffffff&sideNums=ffffff&dates=86efac&border_radius=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=STRBRYKEIYK&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=STRBRYKEIYK&bg_color=0d1117&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=1a3a2a&hide_border=true&custom_title=%24+contribution+graph+%E2%96%8C&title_color=4ade80&radius=8" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=STRBRYKEIYK&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity&radius=10" width="95%"/>
+
+</div>
+
+---
+
+## 🗓️ Career Timeline
+
+```text
+Jan 2025   ▸  Joined JJC Engineering Works as Intern
+Apr 2025   ▸  Promoted to Part-Time Developer (3 months)
+Oct 2025   ▸  Promoted to Full-Time Developer
+2025–2026  ▸  Shipped Toolbox POS — 60+ users, 1,000+ SKUs, production
+2025–2026  ▸  Shipped Procurement Dept. — full supply chain platform
+2026       ▸  Shipped Finance Payroll Dept. — enterprise financial system
+```
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| | Achievement | Impact |
+|---|---|---|
+| ⚡ | **Enterprise-Scale Architecture** | Designed & delivered 3 production systems independently as a fresh BSIT graduate |
+| 📦 | **1,000+ SKU Inventory Engine** | Built with IndexedDB caching, lazy loading & live stock validation without backend lag |
+| 🔄 | **Real-time Multi-session Sync** | WebSocket-driven stock updates keeping 60+ users in sync simultaneously |
+| 📋 | **Financial Approval Workflows** | State-machine-driven voucher & payroll system with full audit trail and bulk operations |
+| 📴 | **Offline-First PWA** | Full POS functionality without internet, auto-syncing when connection is restored |
 
 </div>
 
@@ -288,15 +217,6 @@ $ cat ./achievements.log
 
 <div align="center">
 
-```
-$ echo "---"
-> "Code is architecture. Every decision is a trade-off.
->  Every trade-off is a conversation worth having."
->                                       — Keith Felipe_
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5a3d,50:1a3a2a,100:0d1117&height=130&section=footer&text=Made%20with%20%F0%9F%92%9A%20by%20Keith%20Felipe&fontSize=20&fontColor=4ade80&animation=fadeIn&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f3460,16213e,1a1a2e&height=120&section=footer&text=Open%20to%20Remote%20Opportunities&fontSize=20&fontColor=a8b4c8&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
