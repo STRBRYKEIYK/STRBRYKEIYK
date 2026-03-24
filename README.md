@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,050f0a,071a0f,0a2818,0d3320&height=280&section=header&text=Keith%20Wilhelm%20Felipe&fontSize=58&fontColor=d4edda&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%94%20Enterprise%20Systems%20%26%20Real-Time%20Platforms&descSize=17&descAlignY=62&descColor=6aab7e" width="100%"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://keithfbuilds.dev">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3500&pause=1200&color=4ade80&center=true&vCenter=true&width=700&lines=Building+enterprise+systems+that+ship+to+production.;React+%2B+TypeScript+%2B+Node.js+%E2%80%94+end+to+end.;3+platforms+delivered.+60%2B+users+served.+Still+going." alt="Typing SVG" />
 </a>
