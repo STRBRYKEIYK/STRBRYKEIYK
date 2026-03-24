@@ -24,58 +24,6 @@
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSTRBRYKEIYK%26label%3DProfile%2520Views%26color%3D21262D%26style%3Dflat-square%26labelColor%3D161B22" alt="Profile Views" />
 
 </div>
-keith@portfolio:~$ cat ./about.txt
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  KEITH WILHELM U. FELIPE                                Antipolo, PH · GMT+8│
-│  Full-Stack Web Developer                                                   │
-│  JJC Engineering Works                                                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  Information Technology Graduate (2025) specializing in React/TypeScript    │
-│  enterprise systems. Architecting real-time inventory, procurement, and     │
-│  financial platforms from the ground up — independently, in production,     │
-│  serving live users.                                                        │
-│                                                                             │
-│  Currently seeking remote opportunities to deliver scalable, high-impact    │
-│  web solutions.                                                             │
-│                                                                             │
-│  ✦ Available Immediately  ✦ Remote / WFH  ✦ Fluent English (Professional)   │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-keith@portfolio:~$ ls -la ./projects/
- Gemini said
-
-Here is the upgraded, senior-level terminal design. I kept your core aesthetic but refined the execution: I added authentic-looking commit hashes to your git log commands, standardized the badge styling (flat-square), optimized the JSON formatting, and ensured the ASCII layouts are responsive and perfectly aligned within code blocks.
-
-Everything is contained in a single Markdown block below. Just click "Copy code" and paste it directly into your README.md.
-Markdown
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=160&section=header&fontColor=00FF41&animation=fadeIn" width="100%" />
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║      ██╗  ██╗███████╗██╗████████╗██╗  ██╗    ███████╗                        ║
-║      ██║ ██╔╝██╔════╝██║╚══██╔══╝██║  ██║    ██╔════╝                        ║
-║      █████╔╝ █████╗  ██║   ██║   ███████║    █████╗                          ║
-║      ██╔═██╗ ██╔══╝  ██║   ██║   ██╔══██║    ██╔══╝                          ║
-║      ██║  ██╗███████╗██║   ██║   ██║  ██║    ██║                             ║
-║      ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  @STRBRYKEIYK               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=4A9E5C&center=true&vCenter=true&width=700&height=50&lines=keith%40portfolio%3A~%24+whoami+%E2%96%8C;Full-Stack+Developer+%7C+Enterprise+Systems+%E2%96%8C;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+WebSocket+%E2%96%8C;Building+production-grade+web+platforms+%E2%96%8C" alt="Typing SVG" />
-</a>
-
-<a href="https://keithfbuilds.dev"><img src="https://img.shields.io/badge/Portfolio-keithfbuilds.dev-0D1117?style=flat-square&logo=vercel&logoColor=4A9E5C&labelColor=161B22&color=21262D" alt="Portfolio" /></a>
-<a href="mailto:Keithfelipe024@gmail.com"><img src="https://img.shields.io/badge/Email-Keithfelipe024@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=4A9E5C&labelColor=161B22&color=21262D" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/keith-wilhelm-felipe-a15610366"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=4A9E5C&labelColor=161B22&color=21262D" alt="LinkedIn" /></a>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSTRBRYKEIYK%26label%3DProfile%2520Views%26color%3D21262D%26style%3Dflat-square%26labelColor%3D161B22" alt="Profile Views" />
-
-</div>
 Bash
 
 keith@portfolio:~$ cat ./about.txt
